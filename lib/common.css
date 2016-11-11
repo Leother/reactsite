@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('//at.alicdn.com/t/font_1464923749_106305.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/font_1464923749_106305.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/font_1464923749_106305.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/font_1464923749_106305.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/font_1464923749_106305.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont{font-family:"iconfont"; font-size:16px;font-style:normal;}   
+html{
+  font-family: "Microsoft YaHei", Arial;
+  font-size: 12px;
+}
+h1,h2,h3,h4,h5,h6,p{ margin: 0;}
+a,input,btn,textarea{ outline: none;}
+.conter{ width: 1190px; margin: 0 auto; }
+a {
+  color: #999;
+  text-decoration: none;
+}
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.pull-right {
+  float: right;
+}
+.pull-left {
+  float: left;
+}
+
+.text-success{
+  color:#6aad49;
+}
+
+.text-error{
+  color: #dc1111;
+}
+
+.text-warning{
+  color: #f60;
+}
+
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-link{
+  color:#06c;
+}
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+}
+.hide{display: none;}
+\ No newline at end of file
